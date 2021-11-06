@@ -1,15 +1,13 @@
  ## Ola, sou Tyago Fonseca. Que bom te ver por aqui 👋😄
 
 - 🔭 Desenvolvo aguns codigos com o passar do tempo.
-- 🌱 Porem na maior parte do tempo estudo sobre o mercado e finanças.
-- 👀 Redes sociais, Linkedin e Youtube estão logo abixo: ## Onde você pode me achar:
+- 🌱 Na maior parte do tempo estudo sobre o mercado e finanças.
 
 <div align="center">
   <a href="instagram.com/tyagofonseca/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tyagofonseca&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagofonseca&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tyagofonseca&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagofonseca&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
-  
 
 <div style="display: inline_block"><br>
   <img align="right" alt="tyago.gif" height="160" style="border-radius:260px;" src="https://cdn.discordapp.com/attachments/793229974349414423/906622995164975144/Webp.net-gifmaker.gif">
