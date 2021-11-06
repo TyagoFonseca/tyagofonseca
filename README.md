@@ -10,14 +10,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="tyago.gif" height="160" style="border-radius:260px;" src="https://cdn.discordapp.com/attachments/793229974349414423/906622995164975144/Webp.net-gifmaker.gif">
+  <img align="right" alt="tyago.gif" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/793229974349414423/906622995164975144/Webp.net-gifmaker.gif">
 </div>
  
   ## Você pode me emcontrar em:
   <div> 
   <a href="https://www.youtube.com/channel/UCYrTM2iOzSJV3Ff5sYwNzog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/tyagofonseca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href = "https://mail.google.com/mail/u/0/#search/rafaballerini%40gmail.com?compose=new"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href = "https://mail.google.com/mail/u/0/#search/tyago2009%40gmail.com?compose=new"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/insta_tyagofonseca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
      <a href="www.linkedin.com/in/tyagofonseca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/tyagofonseca_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
