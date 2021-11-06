@@ -10,7 +10,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="tyago.gif" height="160" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/793229974349414423/906622995164975144/Webp.net-gifmaker.gif">
+  <img align="right" alt="tyago.gif" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/793229974349414423/906622995164975144/Webp.net-gifmaker.gif">
 </div>
  
   ## Você pode me emcontrar em:
