@@ -1,4 +1,4 @@
- ## Ola, sou Tyago Fonseca. Que bom te ver por aqui 👋😄
+ ## Sou Tyago Fonseca. 👋😄
 
 - 🔭 Desenvolvo aguns codigos com o passar do tempo.
 - 🌱 Na maior parte do tempo estudo sobre o mercado e finanças.
