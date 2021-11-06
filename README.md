@@ -13,7 +13,7 @@
   <img align="right" alt="tyago.gif" height="160" style="border-radius:260px;" src="https://cdn.discordapp.com/attachments/793229974349414423/906622995164975144/Webp.net-gifmaker.gif">
 </div>
  
-  ### Você pode me emcontrar em:
+  ## Você pode me emcontrar em:
   <div> 
   <a href="https://www.youtube.com/channel/UCYrTM2iOzSJV3Ff5sYwNzog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/tyagofonseca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
