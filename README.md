@@ -8,6 +8,7 @@
   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=tyagofonseca&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagofonseca&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+ 
 <div style="display: inline_block"><br>
   <img align="right" alt="tyago.gif" height="150" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/793229974349414423/906622995164975144/Webp.net-gifmaker.gif">
 </div>
