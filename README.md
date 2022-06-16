@@ -15,12 +15,19 @@
  
   ## Por onde você pode me emcontrar:
   <div> 
-  <a href="https://www.youtube.com/channel/UCYrTM2iOzSJV3Ff5sYwNzog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/tyagofonseca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href = "https://mail.google.com/mail/u/0/#search/tyago2009%40gmail.com?compose=new"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/insta_tyagofonseca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
      <a href="www.linkedin.com/in/tyagofonseca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/tyagofonseca_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+   
+  <a href="https://www.youtube.com/channel/UCYrTM2iOzSJV3Ff5sYwNzog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   
+  <a href="https://www.instagram.com/tyagofonseca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   
+  <a href="https://twitter.com/tyagofonseca_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+   
+  <a href="https://www.facebook.com/tyagofonsecaoficial/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+   
+  <a href = "https://mail.google.com/mail/u/0/#search/tyago2009%40gmail.com?compose=new"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+ 	<a href="https://www.twitch.tv/ricolol11" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/TyagoFonseca/tyagofonseca/blob/output/github-contribution-grid-snake.svg)
  
